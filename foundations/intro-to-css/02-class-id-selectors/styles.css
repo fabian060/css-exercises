@@ -1,24 +1,20 @@
-p{
-  background: rgba(255, 0,0,0.2);
-  font-family: verdana, dejavu sans, sans-serif; 
+.contents{
+  background-color: rgb(232, 166, 166);
+  font-family: verdana, "dejavu sans", sans-serif; 
 }
 
-div{
+#name{
   font-size: 36px;
-  color: blue;
+  color: hsl(240, 100%,50%);
 }
 
-#title{
+#fourth{
   font-size: 24px;
-  background: rgba(0,255,0,0.5);
-  color:black;
+  background-color: #4fe54f;
   font-weight: bold;
 }
 
-#name, p{
+.third{
   font-size: 24px;
 }
 
-#style{
-  font-size: 18px;
-}
