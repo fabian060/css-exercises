@@ -1,0 +1,13 @@
+.name {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.contents {
+    background-color: rgb(255, 255, 0);   
+}
+
+.name, .contents {
+font-family: Helvetica, "Times New Roman", sans-serif;
+font-size: 28px;
+}
